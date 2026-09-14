@@ -4,3 +4,5 @@ _pycache_/
 .env
 venv/
 .venv/
+earthquake_raw_data.csv
+earthquake_data_cleaned.csv
